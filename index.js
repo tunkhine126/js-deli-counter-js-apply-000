@@ -10,7 +10,6 @@ if(katzDeliLine.length > 0){
 }
   return "There is nobody waiting to be served!";
 }
-}
 
 function currentLine(katzDeliLine) {
     return "The line is currently empty."
